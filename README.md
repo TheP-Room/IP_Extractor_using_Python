@@ -4,7 +4,9 @@ Simple Domain Name Resolver Script in Python using 'nslookup'.
 Also Simple as Water.
 
 Tools used : nslookup, grep, bash, python :)
+
 Module imported : subprocess :)
+
 ** Recommended usage with Python 3 **
 
 The required Steps: 
